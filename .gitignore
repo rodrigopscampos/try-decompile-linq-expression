@@ -1,0 +1,17 @@
+Thumbs.db
+Debug
+Release
+*.suo
+*.user
+*.sdf
+*.opensdf
+ipch
+*.swp
+build
+dist
+*.dat
+*.pyc
+*.VC*
+.vs/
+bin/
+packages/
